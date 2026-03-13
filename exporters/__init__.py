@@ -1,2 +1,0 @@
-"""Exporters for search candidates."""
-
