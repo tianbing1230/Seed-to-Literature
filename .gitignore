@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local outputs / caches
+output/
+/tmp/
+cache/
+
+# local env
+.env
+.env.local
+
+# editor
+.vscode/
+.idea/

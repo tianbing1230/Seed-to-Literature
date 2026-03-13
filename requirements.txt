@@ -1,0 +1,3 @@
+# Seed to Literature runtime dependencies
+# Inferred from codes/zotero/search imports.
+# Current state: standard-library only (no third-party runtime package required).

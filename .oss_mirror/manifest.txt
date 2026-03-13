@@ -1,0 +1,3 @@
+profile=seed_to_literature
+allowlist=seed_to_literature.allowlist
+generated_at=2026-03-13T02:44:33Z
