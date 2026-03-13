@@ -1,2 +1,0 @@
-"""Zotero search module."""
-
