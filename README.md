@@ -13,7 +13,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-python3 codes/zotero/search/cli.py query \
+python3 cli.py query \
   --query "computational psychiatry" \
   --output-dir /tmp/seed_to_literature/query \
   --with-s2
